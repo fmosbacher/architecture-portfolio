@@ -36,7 +36,7 @@ const Home: React.FC = () => (
           </div>
 
           {/* Pofile title */}
-          <h1 className="my-6 text-6xl font-black text-center lg:mt-28 xl:mt-48 lg:text-left">
+          <h1 className="my-6 text-6xl font-black text-center lg:mt-28 2xl:mt-48 lg:text-left">
             Ariane Inocêncio
           </h1>
 
@@ -50,7 +50,7 @@ const Home: React.FC = () => (
           </p>
 
           {/* Arrow button */}
-          <button className="hidden p-2 mt-20 border border-black rounded-full xl:mt-40 lg:block w-max">
+          <button className="hidden p-2 mt-20 border border-black rounded-full 2xl:mt-40 lg:block w-max">
             <Icon.ArrowDown size={16} />
           </button>
         </div>
