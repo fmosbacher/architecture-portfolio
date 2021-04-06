@@ -5,7 +5,7 @@ const Home: React.FC = () => (
   <>
     <div className="lg:flex lg:h-screen">
       <div className="w-full lg:flex lg:flex-row-reverse lg:w-1/2">
-        <div className="px-5 lg:p-0 lg:w-3/4 xl:w-1/2 lg:mr-16">
+        <div className="px-5 lg:p-0 lg:w-3/4 xl:w-3/5 lg:mr-16">
           <div className="items-center mt-10 space-x-10 lg:flex">
             {/* Profile picture */}
             <img
